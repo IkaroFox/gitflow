@@ -1,0 +1,2 @@
+Novo Feature adicionado.
+- atualizando a release -- 
